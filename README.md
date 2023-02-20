@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eugenekuria&label=Profile%20views&color=0e75b6&style=flat" alt="eugenekuria" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eugenekuria" alt="eugenekuria" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kengeene)](https://github.com/kengeene/github-profile-trophy)
 
 - 💬 Ask me about **Frontend programming**
 
