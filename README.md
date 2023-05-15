@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kengeene)](https://github.com/kengeene/github-profile-trophy)
 
-[![wakatime](https://wakatime.com/badge/user/60716a06-410c-4065-be51-f67f6e2116bf.svg)](https://wakatime.com/@60716a06-410c-4065-be51-f67f6e2116bf)
+[![wakatime](https://wakatime.com/badge/user/5ab081a4-6043-4bc2-a698-6c0dddd54c58.svg)](https://wakatime.com/@5ab081a4-6043-4bc2-a698-6c0dddd54c58)
 
 - 💬 Ask me about **Frontend programming**
 
