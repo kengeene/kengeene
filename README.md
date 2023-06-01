@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenekuria&show_icons=true&locale=en&layout=compact" alt="eugenekuria" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenekuria&show_icons=true&locale=en" alt="eugenekuria" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kengeene&show_icons=true&locale=en" alt="eugene" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenekuria&" alt="eugenekuria" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kengeene&" alt="eugene" /></p>
