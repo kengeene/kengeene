@@ -27,7 +27,7 @@
   <li><a href="https://github.com/kengeene/user_management_vue_app">User Management App</a> - A simple app created in Vue.js which uses a Node.js API(Also created by me) to manage users.</li>
  </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenekuria&show_icons=true&locale=en&layout=compact" alt="eugenekuria" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengeene&show_icons=true&locale=en&layout=compact" alt="eugenekuria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kengeene&show_icons=true&locale=en" alt="eugene" /></p>
 
