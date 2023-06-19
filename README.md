@@ -21,10 +21,13 @@
 <h3>Sample Projects</h3
 <ul>
   <li><a href="https://github.com/kengeene/chat_react_app/blob/dev/src/components/chat/index.js">Sample Chat App</a> - A simple chat app that uses localStorage to store chats(React.js)</li>
-  <li><a href="https://github.com/kengeene/nasa-imdb_react_app">Nasa IMDB app</a> - A small app that fetches movies from a simple NASA api and displays them to the user(React.js)</li>
+  <li><a href="https://github.com/kengeene/nasa-imdb_react_app">Nasa IMDB app</a> - A small app that fetches movies from a simple NASA API and displays them to the user(React.js)</li>
   <li><a href="https://github.com/kengeene/url-shortener_vue_app">URL Shortener</a> - A small URL shortener app coded in Vue.js</li>
   <li><a href="https://github.com/kengeene/melanin_react_app">Dashboard App - An app created in React to display a sample dashboard page, using Chart.js to display the charts and fakerjs to fetch data.</li>
   <li><a href="https://github.com/kengeene/user_management_vue_app">User Management App</a> - A simple app created in Vue.js which uses a Node.js API(Also created by me) to manage users.</li>
+    <li>
+      <a href="https://github.com/kengeene/kanban-board_vue_app">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.
+    </li>
  </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengeene&show_icons=true&locale=en&layout=compact" alt="eugenekuria" /></p>
