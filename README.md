@@ -29,9 +29,9 @@
       <a href="https://github.com/kengeene/kanban-board_vue_app">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.
     </li>
  </ul>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengeene&show_icons=true&locale=en&layout=compact" alt="eugenekuria" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kengeene&show_icons=true&locale=en" alt="eugene" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kengeene&" alt="eugene" /></p>
