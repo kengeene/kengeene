@@ -26,7 +26,7 @@
   <li><a href="https://github.com/kengeene/melanin_react_app">Dashboard App - An app created in React to display a sample dashboard page, using Chart.js to display the charts and fakerjs to fetch data.</li>
   <li><a href="https://github.com/kengeene/user_management_vue_app">User Management App</a> - A simple app created in Vue.js which uses a Node.js API(Also created by me) to manage users.</li>
     <li>
-      <a href="https://github.com/kengeene/kanban-board_vue_app">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.
+      <a href="https://github.com/kengeene/kanban-board_vue_app">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.(Vue.js, JEST, Cypress)
     </li>
  </ul>
 <br/>
