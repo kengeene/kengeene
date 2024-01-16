@@ -21,7 +21,7 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
-      <a href="https://github.com/kengeene/kanban-board_vue_app">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.(Vue.js, JEST, Cypress)
+      <a href="https://github.com/kengeene/kanban-board_vue_app-">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.(Vue.js, JEST, Cypress)
     </li>
   <li><a href="https://github.com/kengeene/chat_react_app/blob/dev/src/components/chat/index.js">Sample Chat App</a> - A simple chat app that uses localStorage to store chats(React.js)</li>
   <li><a href="https://github.com/kengeene/nasa-imdb_react_app">Nasa IMDB app</a> - A small app that fetches movies from a simple NASA API and displays them to the user(React.js)</li>
