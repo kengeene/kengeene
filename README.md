@@ -21,6 +21,9 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
+          <a href="https://chatbot-nextjs-app.vercel.app/">AI Chatbot</a> An AI chatbot leveraging GPT4o built using a premade NextJs template.
+     </li>
+     <li>
       <a href="https://jovial-madeleine-2e845c.netlify.app/" target="_blank">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.(Vue.js, JEST, Cypress)<a href="https://github.com/kengeene/kanban-board_vue_app-">Link to Repo</a>
     </li>
   <li><a href="https://github.com/kengeene/chat_react_app/blob/dev/src/components/chat/index.js">Sample Chat App</a> - A simple chat app that uses localStorage to store chats(React.js), you can simulate multiple users by opening different tabs on your browser</li>
