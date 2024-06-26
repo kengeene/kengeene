@@ -21,6 +21,9 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
+          <a href="https://ello-assignment-react-app.vercel.app">Book Assignment App</a> Search and assign through books, find the <a href="https://github.com/kengeene/ello_assignment-react-app">repo here</a>
+     </li>
+     <li>
           <a href="https://github.com/kengeene/lhc-react-app/">Recipie Generator App</a> An app that helps generate cooking recipies based on items you have in your pantry using AI. Find the <a href="https://github.com/kengeene/lhc-react-app/">repo here</a>
      </li>
      <li>
