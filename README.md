@@ -21,6 +21,9 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
+          <a href="https://sales-dashboard-react-app.vercel.app/">Sales Dashboard</a> A simple sales dashboard showing the metrics of 3 different products. Find the <a href="https://github.com/kengeene/sales_dashboard-react-app">repo here</a>
+     </li>
+     <li>
           <a href="https://ello-assignment-react-app.vercel.app">Book Assignment App</a> Search and assign through books, find the <a href="https://github.com/kengeene/ello_assignment-react-app">repo here</a>
      </li>
      <li>
