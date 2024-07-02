@@ -22,7 +22,7 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
-          <a href="https://sales-dashboard-react-app.vercel.app/">Sales Dashboard</a> A gallery app built using 
+          <a href="https://gallery-next-app.vercel.app/">Gallery application</a> A gallery app built using 
           <ul>
                <li>[tRPC](https://trpc.io/) for the backend architecture</li>
                <li>[Next.js App Router](https://nextjs.org/docs/app)</li>
