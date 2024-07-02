@@ -22,8 +22,8 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
-          <a href="https://gallery-next-app.vercel.app/">Gallery application(In progress)</a> A gallery app built using a number of frameworks and tools.
-          Find the <a href="https://github.com/kengeene/gallery-next-app">repo here</a> . Some of the difffeent
+          <a href="https://gallery-next-app.vercel.app/" target="_blank">Gallery application(In progress)</a> A gallery app built using a number of frameworks and tools.
+          Find the <a href="https://github.com/kengeene/gallery-next-app" target="_blank">repo here</a> . Some of the difffeent
           <ul>
                <li>[tRPC](https://trpc.io/) for the backend architecture</li>
                <li>[Next.js App Router](https://nextjs.org/docs/app)</li>
@@ -35,25 +35,25 @@
           </ul>
      </li>
      <li>
-          <a href="https://sales-dashboard-react-app.vercel.app/">Sales Dashboard</a> A simple sales dashboard showing the metrics of 3 different products. Find the <a href="https://github.com/kengeene/sales_dashboard-react-app">repo here</a>
+          <a href="https://sales-dashboard-react-app.vercel.app/" target="_blank">Sales Dashboard</a> A simple sales dashboard showing the metrics of 3 different products. Find the <a href="https://github.com/kengeene/sales_dashboard-react-app" target="_blank">repo here</a>
      </li>
      <li>
-          <a href="https://ello-assignment-react-app.vercel.app">Book Assignment App</a> Search and assign through books, find the <a href="https://github.com/kengeene/ello_assignment-react-app">repo here</a>
+          <a href="https://ello-assignment-react-app.vercel.app" target="_blank">Book Assignment App</a> Search and assign through books, find the <a href="https://github.com/kengeene/ello_assignment-react-app" target="_blank">repo here</a>
      </li>
      <li>
-          <a href="https://github.com/kengeene/lhc-react-app/">Recipie Generator App</a> An app that helps generate cooking recipies based on items you have in your pantry using AI. Find the <a href="https://github.com/kengeene/lhc-react-app/">repo here</a>
+          <a href="https://github.com/kengeene/lhc-react-app/" target="_blank">Recipie Generator App</a> An app that helps generate cooking recipies based on items you have in your pantry using AI. Find the <a href="https://github.com/kengeene/lhc-react-app/" target="_blank">repo here</a>
      </li>
      <li>
-          <a href="https://chatbot-nextjs-app.vercel.app/">AI Chatbot</a> An AI chatbot leveraging GPT4o built using a premade NextJs template.
+          <a href="https://chatbot-nextjs-app.vercel.app/" target="_blank">AI Chatbot</a> An AI chatbot leveraging GPT4o built using a premade NextJs template.
      </li>
      <li>
-      <a href="https://jovial-madeleine-2e845c.netlify.app/" target="_blank">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.(Vue.js, JEST, Cypress)<a href="https://github.com/kengeene/kanban-board_vue_app-">Link to Repo</a>
+      <a href="https://jovial-madeleine-2e845c.netlify.app/" target="_blank">Kanban Board App</a> - A Kanban board that allows you to create, edit, and move tickets on a Kanban Board.(Vue.js, JEST, Cypress)<a href="https://github.com/kengeene/kanban-board_vue_app-" target="_blank">Link to Repo</a>
     </li>
-  <li><a href="https://github.com/kengeene/chat_react_app/blob/dev/src/components/chat/index.js">Sample Chat App</a> - A simple chat app that uses localStorage to store chats(React.js), you can simulate multiple users by opening different tabs on your browser</li>
-  <li><a href="https://github.com/kengeene/nasa-imdb_react_app">Nasa IMDB app</a> - A small app that fetches movies from a simple NASA API and displays them to the user(React.js)</li>
-  <li><a href="https://github.com/kengeene/url-shortener_vue_app">URL Shortener</a> - A small URL shortener app coded in Vue.js</li>
-  <li><a href="https://github.com/kengeene/melanin_react_app">Dashboard App - An app created in React to display a sample dashboard page, using Chart.js to display the charts and fakerjs to fetch data.</li>
-  <li><a href="https://github.com/kengeene/user_management_vue_app">User Management App</a> - A simple app created in Vue.js which uses a Node.js API(Also created by me) to manage users.</li>
+  <li><a href="https://github.com/kengeene/chat_react_app/blob/dev/src/components/chat/index.js" target="_blank">Sample Chat App</a> - A simple chat app that uses localStorage to store chats(React.js), you can simulate multiple users by opening different tabs on your browser</li>
+  <li><a href="https://github.com/kengeene/nasa-imdb_react_app" target="_blank">Nasa IMDB app</a> - A small app that fetches movies from a simple NASA API and displays them to the user(React.js)</li>
+  <li><a href="https://github.com/kengeene/url-shortener_vue_app" target="_blank">URL Shortener</a> - A small URL shortener app coded in Vue.js</li>
+  <li><a href="https://github.com/kengeene/melanin_react_app" target="_blank">Dashboard App - An app created in React to display a sample dashboard page, using Chart.js to display the charts and fakerjs to fetch data.</li>
+  <li><a href="https://github.com/kengeene/user_management_vue_app" target="_blank">User Management App</a> - A simple app created in Vue.js which uses a Node.js API(Also created by me) to manage users.</li>
  </ul>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengeene&show_icons=true&locale=en&layout=compact" alt="eugenekuria" /></p>
