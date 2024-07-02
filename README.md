@@ -16,10 +16,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <h3>Sample Projects</h3
 <ul>
+     <li>
+          <a href="https://sales-dashboard-react-app.vercel.app/">Sales Dashboard</a> A gallery app built using 
+          <ul>
+               <li>[tRPC](https://trpc.io/) for the backend architecture</li>
+               <li>[Next.js App Router](https://nextjs.org/docs/app)</li>
+               <li>[UploadThings](https://docs.uploadthing.com/getting-started/appdir) for images upload</li>
+               <li>[Prisma](https://www.prisma.io/) to query the sql database</li>
+               <li>[NextAuth](https://create.t3.gg/en/usage/next-auth) to authenticate users(Google as a provider)</li>
+               <li>[Neon Database](https://neon.tech/docs/guides/nextjs) to store data</li>
+               <li>[TailwindCSS](https://tailwindcss.com/docs) to style your front-end</li>
+          </ul>
+          Find the <a href="https://github.com/kengeene/gallery-next-app">repo here</a>
+     </li>
      <li>
           <a href="https://sales-dashboard-react-app.vercel.app/">Sales Dashboard</a> A simple sales dashboard showing the metrics of 3 different products. Find the <a href="https://github.com/kengeene/sales_dashboard-react-app">repo here</a>
      </li>
