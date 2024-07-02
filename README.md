@@ -22,7 +22,8 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
-          <a href="https://gallery-next-app.vercel.app/">Gallery application</a> A gallery app built using 
+          <a href="https://gallery-next-app.vercel.app/">Gallery application</a> A gallery app built using a number of frameworks and tools.
+          Find the <a href="https://github.com/kengeene/gallery-next-app">repo here</a> . Some of the difffeent
           <ul>
                <li>[tRPC](https://trpc.io/) for the backend architecture</li>
                <li>[Next.js App Router](https://nextjs.org/docs/app)</li>
@@ -32,7 +33,6 @@
                <li>[Neon Database](https://neon.tech/docs/guides/nextjs) to store data</li>
                <li>[TailwindCSS](https://tailwindcss.com/docs) to style your front-end</li>
           </ul>
-          Find the <a href="https://github.com/kengeene/gallery-next-app">repo here</a>
      </li>
      <li>
           <a href="https://sales-dashboard-react-app.vercel.app/">Sales Dashboard</a> A simple sales dashboard showing the metrics of 3 different products. Find the <a href="https://github.com/kengeene/sales_dashboard-react-app">repo here</a>
