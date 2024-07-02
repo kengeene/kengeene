@@ -22,7 +22,7 @@
 <h3>Sample Projects</h3
 <ul>
      <li>
-          <a href="https://gallery-next-app.vercel.app/">Gallery application</a> A gallery app built using a number of frameworks and tools.
+          <a href="https://gallery-next-app.vercel.app/">Gallery application(In progress)</a> A gallery app built using a number of frameworks and tools.
           Find the <a href="https://github.com/kengeene/gallery-next-app">repo here</a> . Some of the difffeent
           <ul>
                <li>[tRPC](https://trpc.io/) for the backend architecture</li>
